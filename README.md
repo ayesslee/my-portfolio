@@ -6,9 +6,9 @@ A portfolio showcasing basic information about the developer and their projects 
 
 ### Links
 
-[Link to deployed website]()
+[Link to deployed website](https://ayesslee.github.io/my-portfolio/)
 
-[Link to repository]()
+[Link to repository](https://github.com/ayesslee/my-portfolio)
 
 ## Installation
 
