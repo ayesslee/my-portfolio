@@ -4,11 +4,13 @@
 
 A portfolio showcasing basic information about the developer and their projects along with their contact information. This project was created using semantic HTML, and CSS for styling.
 
+![screenshot](/screenshot.png)
+
 ### Links
 
-[Link to deployed website]()
+[Link to deployed website](https://ayesslee.github.io/my-portfolio/)
 
-[Link to repository]()
+[Link to repository](https://github.com/ayesslee/my-portfolio)
 
 ## Installation
 
